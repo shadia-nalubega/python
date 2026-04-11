@@ -26,5 +26,6 @@ def tax1():
 # we will first define a function
 def net1():
     print(pay()-tax1())
-net1()          
+net1() 
+
  
